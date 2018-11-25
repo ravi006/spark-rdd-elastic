@@ -1,3 +1,3 @@
 # spark-rdd-elastic
 
-Plaid around Spark RDDs.
+Worked on core Spark RDDs.
